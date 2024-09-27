@@ -29,8 +29,11 @@ In this assignment, our team of two AMR epidemiologists and five front-end bioin
 ### **Role of the Front-End Bioinformaticians:**
 The interactive dashboard was developed by the front-end bioinformaticians using R Shiny. The dashboard includes a variety of functionality that make data more accessible and actionable. 
 The key aspects are as follows:
+
 **•	Interactive Maps and Charts:** The dashboard illustrates cholera cases and fatalities over time using global and country-specific data, with interactive maps and charts. These visualizations incorporate interactive maps that allow users to investigate cholera cases in various geographic locations.
+
 **•	Filters:** Filter data by country and timeframe to focus on specific outbreaks or trends.
+
 **•	Automatic Report Generation:** Automatic report generation based on epidemiologists' summary templates is a notable feature. Users can select a country and the dashboard will immediately provide a thorough summary report on cholera outbreaks, highlighting significant trends and indicators.
 
 In a broader sense the application not only functions as a data visualization tool, but it also provides useful insights about global cholera epidemics. The team established a formidable resource for understanding and managing cholera epidemics around the world by combining epidemiological expertise and bioinformatics skills.
